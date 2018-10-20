@@ -1,0 +1,11 @@
+body {
+    background: floralwhite;
+}
+.myForm {
+    padding: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
